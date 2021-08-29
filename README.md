@@ -1,6 +1,8 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20I'm%20JaeHyun!&fontAlignY=40&color=gradient)
 
 <div align=center>
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20I'm%20JaeHyun!&fontAlignY=40&color=gradient)
+
   
 ## 🛠 stack
 
