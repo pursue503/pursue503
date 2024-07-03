@@ -22,7 +22,7 @@
 ## 💻 About me
 [![Blogger](https://img.shields.io/badge/blog-4682b4?style=flat-square&logo=Blogger&logoColor=white)](https://dev-jo.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jho950408@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-017CEE?style=flat-square&logo=Linkedin&logoColor=white)]([mailto:jho950408@gmail.com](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%A1%B0-a344711b3/))
+[![Linkedin](https://img.shields.io/badge/Linkedin-017CEE?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%A1%B0-a344711b3/)
   
 ## 🎢 today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpursue503%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
